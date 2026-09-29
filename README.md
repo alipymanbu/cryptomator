@@ -1,108 +1,26 @@
-[![cryptomator](cryptomator.png)](https://cryptomator.org/)
+# cryptomator
 
-[![Build](https://github.com/cryptomator/cryptomator/workflows/Build/badge.svg)](https://github.com/cryptomator/cryptomator/actions/workflows/build.yml?query=branch%3Adevelop)
-[![Known Vulnerabilities](https://snyk.io/test/github/cryptomator/cryptomator/badge.svg)](https://snyk.io/test/github/cryptomator/cryptomator)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=cryptomator_cryptomator&metric=alert_status)](https://sonarcloud.io/dashboard?id=cryptomator_cryptomator)
-[![Mastodon](https://img.shields.io/mastodon/follow/176112?domain=mastodon.online&style=flat)](https://mastodon.online/@cryptomator)
-[![Crowdin](https://badges.crowdin.net/cryptomator/localized.svg)](https://translate.cryptomator.org/)
-[![Latest Release](https://img.shields.io/github/release/cryptomator/cryptomator.svg)](https://github.com/cryptomator/cryptomator/releases/latest)
-[![Community](https://img.shields.io/badge/help-Community-orange.svg)](https://community.cryptomator.org)
+本仓库是「cryptomator」的安卓版本获取入口，附使用资料索引。
 
-## Supporting Cryptomator
+## 安装文件资源（夸克网盘）
 
-Cryptomator is provided free of charge as an open-source project despite the high development effort and is therefore dependent on donations. If you are also interested in further development, we offer you the opportunity to support us:
+> **cryptomator 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1f99224b791b](https://pan.quark.cn/s/1f99224b791b)
 
-- [One-time or recurring donation via Cryptomator's website.](https://cryptomator.org/#donate)
-- [Become a sponsor via Cryptomator's sponsors website.](https://cryptomator.org/sponsors/)
+## 官方项目
 
-### Gold Sponsors
+- 上游项目：[cryptomator/cryptomator](https://github.com/cryptomator/cryptomator)
 
-Become our Gold Sponsor and showcase your brand to a targeted audience! Please contact us if you are interested.
+## 更多资料
 
-### Silver Sponsors
-
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://www.gee-whiz.de/"><img src="https://cryptomator.org/img/sponsors/geewhiz.svg" alt="gee-whiz" height="56"></a></td>
-      <td><a href="https://www.route4me.com/"><img src="https://cryptomator.org/img/sponsors/route4me.svg" alt="Route4Me" height="56"></a></td>
-      <td><a href="https://www.apivoid.com/"><img src="https://cryptomator.org/img/sponsors/apivoid.svg" alt="ApiVoid" height="56"></a></td>
-    </tr>
-  </tbody>
-</table>
-
-### Special Shoutout
-
-Continuous integration hosting for ARM64 builds is provided by [MacStadium](https://www.macstadium.com/company/opensource).
-
-<a href="https://www.macstadium.com/company/opensource"><img src="https://uploads-ssl.webflow.com/5ac3c046c82724970fc60918/5c019d917bba312af7553b49_MacStadium-developerlogo.png" alt="MacStadium" height="100"></a>
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/cryptomator/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [云盘接入与WebDAV配置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/cryptomator/%E4%BA%91%E7%9B%98%E6%8E%A5%E5%85%A5%E4%B8%8EWebDAV%E9%85%8D%E7%BD%AE.md)
+- [保险库文件夹结构与备份](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/cryptomator/%E4%BF%9D%E9%99%A9%E5%BA%93%E6%96%87%E4%BB%B6%E5%A4%B9%E7%BB%93%E6%9E%84%E4%B8%8E%E5%A4%87%E4%BB%BD.md)
+- [保险库日常使用与文件操作](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/cryptomator/%E4%BF%9D%E9%99%A9%E5%BA%93%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E4%B8%8E%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.md)
+- [保险库格式升级与版本兼容](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/cryptomator/%E4%BF%9D%E9%99%A9%E5%BA%93%E6%A0%BC%E5%BC%8F%E5%8D%87%E7%BA%A7%E4%B8%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9.md)
+- [创建加密保险库步骤](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/cryptomator/%E5%88%9B%E5%BB%BA%E5%8A%A0%E5%AF%86%E4%BF%9D%E9%99%A9%E5%BA%93%E6%AD%A5%E9%AA%A4.md)
+- [忘记密码与常见问题排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/cryptomator/%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81%E4%B8%8E%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-## Introduction
-
-Cryptomator offers multi-platform transparent client-side encryption of your files in the cloud.
-
-Download native binaries of Cryptomator on [cryptomator.org](https://cryptomator.org/) or clone and build Cryptomator using Maven (instructions below).
-
-## Features
-
-- Works with Dropbox, Google Drive, OneDrive, MEGA, pCloud, ownCloud, Nextcloud and any other cloud storage service which synchronizes with a local directory
-- Open Source means: No backdoors, control is better than trust
-- Client-side: No accounts, no data shared with any online service
-- Totally transparent: Just work on the virtual drive as if it were a USB flash drive
-- AES encryption with 256-bit key length
-- File names get encrypted
-- Folder structure gets obfuscated
-- Use as many vaults in your Dropbox as you want, each having individual passwords
-- More than Five thousand commits for the security of your data!! :tada:
-
-### Privacy
-
-- 256-bit keys (unlimited strength policy bundled with native binaries)
-- Scrypt key derivation
-- Cryptographically secure random numbers for salts, IVs and the masterkey of course
-- Sensitive data is wiped from the heap asap
-- Lightweight: [Complexity kills security](https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html)
-
-### Consistency
-
-- Authenticated encryption is used for file content to recognize changed ciphertext before decryption
-- I/O operations are transactional and atomic, if the filesystems support it
-- Each file contains all information needed for decryption (except for the key of course), no common metadata means no [SPOF](http://en.wikipedia.org/wiki/Single_point_of_failure)
-
-### Security Architecture
-
-For more information on the security details visit [cryptomator.org](https://docs.cryptomator.org/security/architecture/).
-
-## Building
-
-### Dependencies
-
-* JDK 26 (e.g. temurin, zulu)
-
-### Run Maven
-
-```
-./mvnw clean install
-```
-
-This will build all the jars and bundle them together with their OS-specific dependencies under `target`. This can now be used to build native packages.
-
-### Running the app
-
-```
-./mvnw -Prun compile exec:exec
-```
-
-This starts the app with the defaults defined in `pom.xml`. The OS-specific parameters are picked automatically.
-
-Add the `dev` profile to use the `Cryptomator-Dev` settings, log and mount directories instead, so a development run does not interfere with an installed Cryptomator:
-
-```
-./mvnw -Prun,dev compile exec:exec
-```
-
-## License
-
-This project is dual-licensed under the GPLv3 for FOSS projects as well as a commercial license for independent software vendors and resellers. If you want to modify this application under different conditions, feel free to contact our support team.
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/cryptomator/cryptomator)。
